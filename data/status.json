@@ -1,0 +1,191 @@
+{
+  "generated_at_china": "2026-09-17T11:08:17+08:00",
+  "all_valid_for_signal_axis": false,
+  "stocks": {
+    "600309": {
+      "name": "万华化学",
+      "valid_for_signal_axis": false,
+      "reason_if_invalid": "latest date mismatch: 2026-09-17 vs 2026-09-16",
+      "latest": {
+        "date": "2026-09-17",
+        "open": 70.0,
+        "close": 70.51,
+        "high": 71.09,
+        "low": 69.88,
+        "volume": 133499,
+        "amount": 940569760.0,
+        "amplitude_pct": 1.71,
+        "pct_change": -0.38,
+        "change": -0.27,
+        "turnover_pct": 0.43
+      },
+      "bar_count": 180,
+      "sources": {
+        "eastmoney": {
+          "ok": true,
+          "bar_count": 180,
+          "error": null
+        },
+        "baostock": {
+          "ok": true,
+          "bar_count": 180,
+          "error": null
+        }
+      },
+      "cross_check": {
+        "ok": false,
+        "reason": "latest date mismatch: 2026-09-17 vs 2026-09-16"
+      }
+    },
+    "688012": {
+      "name": "中微公司",
+      "valid_for_signal_axis": false,
+      "reason_if_invalid": "only one source available; cross-check requirement not met",
+      "latest": {
+        "date": "2026-09-16",
+        "open": 334.19,
+        "close": 352.6,
+        "high": 358.34,
+        "low": 329.1,
+        "volume": 21621295,
+        "amount": 7476570101.6,
+        "turnover_pct": 2.2948,
+        "pct_change": 6.6546
+      },
+      "bar_count": 180,
+      "sources": {
+        "eastmoney": {
+          "ok": false,
+          "bar_count": 0,
+          "error": "Eastmoney failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        },
+        "baostock": {
+          "ok": true,
+          "bar_count": 180,
+          "error": null
+        }
+      },
+      "cross_check": null
+    },
+    "601899": {
+      "name": "紫金矿业",
+      "valid_for_signal_axis": false,
+      "reason_if_invalid": "only one source available; cross-check requirement not met",
+      "latest": {
+        "date": "2026-09-16",
+        "open": 31.77,
+        "close": 32.17,
+        "high": 32.47,
+        "low": 31.16,
+        "volume": 189636832,
+        "amount": 6038730152.81,
+        "turnover_pct": 0.9205,
+        "pct_change": 1.5467
+      },
+      "bar_count": 180,
+      "sources": {
+        "eastmoney": {
+          "ok": false,
+          "bar_count": 0,
+          "error": "Eastmoney failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        },
+        "baostock": {
+          "ok": true,
+          "bar_count": 180,
+          "error": null
+        }
+      },
+      "cross_check": null
+    },
+    "600183": {
+      "name": "生益科技",
+      "valid_for_signal_axis": false,
+      "reason_if_invalid": "only one source available; cross-check requirement not met",
+      "latest": {
+        "date": "2026-09-16",
+        "open": 151.0,
+        "close": 154.48,
+        "high": 157.5,
+        "low": 147.33,
+        "volume": 64550860,
+        "amount": 9871775117.89,
+        "turnover_pct": 2.6765,
+        "pct_change": 2.8153
+      },
+      "bar_count": 180,
+      "sources": {
+        "eastmoney": {
+          "ok": false,
+          "bar_count": 0,
+          "error": "Eastmoney failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        },
+        "baostock": {
+          "ok": true,
+          "bar_count": 180,
+          "error": null
+        }
+      },
+      "cross_check": null
+    },
+    "603259": {
+      "name": "药明康德",
+      "valid_for_signal_axis": false,
+      "reason_if_invalid": "only one source available; cross-check requirement not met",
+      "latest": {
+        "date": "2026-09-16",
+        "open": 156.13,
+        "close": 157.71,
+        "high": 160.99,
+        "low": 155.1,
+        "volume": 31047040,
+        "amount": 4910186413.41,
+        "turnover_pct": 1.2553,
+        "pct_change": 0.6638
+      },
+      "bar_count": 180,
+      "sources": {
+        "eastmoney": {
+          "ok": false,
+          "bar_count": 0,
+          "error": "Eastmoney failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        },
+        "baostock": {
+          "ok": true,
+          "bar_count": 180,
+          "error": null
+        }
+      },
+      "cross_check": null
+    },
+    "601138": {
+      "name": "工业富联",
+      "valid_for_signal_axis": false,
+      "reason_if_invalid": "only one source available; cross-check requirement not met",
+      "latest": {
+        "date": "2026-09-16",
+        "open": 60.79,
+        "close": 62.33,
+        "high": 62.98,
+        "low": 60.4,
+        "volume": 69668519,
+        "amount": 4311818070.36,
+        "turnover_pct": 0.3511,
+        "pct_change": 2.5164
+      },
+      "bar_count": 180,
+      "sources": {
+        "eastmoney": {
+          "ok": false,
+          "bar_count": 0,
+          "error": "Eastmoney failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        },
+        "baostock": {
+          "ok": true,
+          "bar_count": 180,
+          "error": null
+        }
+      },
+      "cross_check": null
+    }
+  }
+}
