@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at_china": "2026-11-14T00:32:47+08:00",
+  "generated_at_china": "2026-11-17T02:40:36+08:00",
   "adjustment": "qfq/forward-adjusted",
   "authoritative_source": "baostock",
   "validator_priority": [
@@ -16,17 +16,17 @@
       "market": "sh",
       "valid_for_signal_axis": true,
       "reason_if_invalid": null,
-      "latest_completed_date": "2026-11-13",
+      "latest_completed_date": "2026-11-16",
       "latest": {
-        "date": "2026-11-13",
-        "open": 68.83,
-        "close": 68.09,
-        "high": 69.22,
-        "low": 67.83,
-        "volume": 18898550,
-        "amount": 1288733297.24,
-        "turnover_pct": 0.6037,
-        "pct_change": -1.2043
+        "date": "2026-11-16",
+        "open": 67.8,
+        "close": 69.5,
+        "high": 69.65,
+        "low": 67.31,
+        "volume": 20164821,
+        "amount": 1390521872.26,
+        "turnover_pct": 0.6441,
+        "pct_change": 2.0708
       },
       "bar_count": 180,
       "authoritative_source": "baostock",
@@ -53,26 +53,15 @@
         "ok": true,
         "reason": "ok",
         "common_dates": 180,
-        "latest_completed_date": "2026-11-13",
-        "authoritative_close": 68.09,
-        "validator_close": 68.09,
+        "latest_completed_date": "2026-11-16",
+        "authoritative_close": 69.5,
+        "validator_close": 69.5,
         "latest_close_rel_diff": 0.0,
         "recent_ratio_spread": 0.0,
         "recent_median_rel_diff": 0.0,
         "recent_max_rel_diff": 0.0
       },
       "bars": [
-        {
-          "date": "2026-02-12",
-          "open": 86.4519504,
-          "close": 85.673104,
-          "high": 87.15291216,
-          "low": 85.3810366,
-          "volume": 27602811,
-          "amount": 2440345108.42,
-          "turnover_pct": 0.8817,
-          "pct_change": -0.9567
-        },
         {
           "date": "2026-02-13",
           "open": 84.70928158,
@@ -2041,6 +2030,17 @@
           "amount": 1288733297.24,
           "turnover_pct": 0.6037,
           "pct_change": -1.2043
+        },
+        {
+          "date": "2026-11-16",
+          "open": 67.8,
+          "close": 69.5,
+          "high": 69.65,
+          "low": 67.31,
+          "volume": 20164821,
+          "amount": 1390521872.26,
+          "turnover_pct": 0.6441,
+          "pct_change": 2.0708
         }
       ]
     },
@@ -2050,17 +2050,17 @@
       "market": "sh",
       "valid_for_signal_axis": true,
       "reason_if_invalid": null,
-      "latest_completed_date": "2026-11-13",
+      "latest_completed_date": "2026-11-16",
       "latest": {
-        "date": "2026-11-13",
-        "open": 256.0,
-        "close": 245.9,
-        "high": 259.86,
-        "low": 243.81,
-        "volume": 20303550,
-        "amount": 5107616542.59,
-        "turnover_pct": 2.1549,
-        "pct_change": -2.6331
+        "date": "2026-11-16",
+        "open": 239.0,
+        "close": 233.2,
+        "high": 245.86,
+        "low": 230.01,
+        "volume": 20561484,
+        "amount": 4858037565.0,
+        "turnover_pct": 2.1823,
+        "pct_change": -5.1647
       },
       "bar_count": 180,
       "authoritative_source": "baostock",
@@ -2087,26 +2087,15 @@
         "ok": true,
         "reason": "ok",
         "common_dates": 180,
-        "latest_completed_date": "2026-11-13",
-        "authoritative_close": 245.9,
-        "validator_close": 245.9,
+        "latest_completed_date": "2026-11-16",
+        "authoritative_close": 233.2,
+        "validator_close": 233.2,
         "latest_close_rel_diff": 0.0,
         "recent_ratio_spread": 0.0,
         "recent_median_rel_diff": 0.0,
         "recent_max_rel_diff": 0.0
       },
       "bars": [
-        {
-          "date": "2026-02-12",
-          "open": 234.045333,
-          "close": 231.362865,
-          "high": 235.5206904,
-          "low": 226.66183983,
-          "volume": 9031579,
-          "amount": 3100167704.99,
-          "turnover_pct": 1.4424,
-          "pct_change": -0.5362
-        },
         {
           "date": "2026-02-13",
           "open": 229.90762611,
@@ -4075,6 +4064,17 @@
           "amount": 5107616542.59,
           "turnover_pct": 2.1549,
           "pct_change": -2.6331
+        },
+        {
+          "date": "2026-11-16",
+          "open": 239.0,
+          "close": 233.2,
+          "high": 245.86,
+          "low": 230.01,
+          "volume": 20561484,
+          "amount": 4858037565.0,
+          "turnover_pct": 2.1823,
+          "pct_change": -5.1647
         }
       ]
     },
@@ -4084,17 +4084,17 @@
       "market": "sh",
       "valid_for_signal_axis": true,
       "reason_if_invalid": null,
-      "latest_completed_date": "2026-11-13",
+      "latest_completed_date": "2026-11-16",
       "latest": {
-        "date": "2026-11-13",
-        "open": 26.4,
-        "close": 26.38,
-        "high": 26.68,
-        "low": 26.1,
-        "volume": 181886220,
-        "amount": 4797494471.81,
-        "turnover_pct": 0.8829,
-        "pct_change": -1.4937
+        "date": "2026-11-16",
+        "open": 25.88,
+        "close": 25.96,
+        "high": 26.24,
+        "low": 25.58,
+        "volume": 173271637,
+        "amount": 4487709644.29,
+        "turnover_pct": 0.8411,
+        "pct_change": -1.5921
       },
       "bar_count": 180,
       "authoritative_source": "baostock",
@@ -4121,26 +4121,15 @@
         "ok": true,
         "reason": "ok",
         "common_dates": 180,
-        "latest_completed_date": "2026-11-13",
-        "authoritative_close": 26.38,
-        "validator_close": 26.38,
+        "latest_completed_date": "2026-11-16",
+        "authoritative_close": 25.96,
+        "validator_close": 25.96,
         "latest_close_rel_diff": 0.0,
         "recent_ratio_spread": 0.0,
         "recent_median_rel_diff": 0.0,
         "recent_max_rel_diff": 0.0
       },
       "bars": [
-        {
-          "date": "2026-02-12",
-          "open": 38.51177949,
-          "close": 38.68696575,
-          "high": 39.34878051,
-          "low": 38.43391893,
-          "volume": 235575945,
-          "amount": 9408329694.43,
-          "turnover_pct": 1.1435,
-          "pct_change": 0.6839
-        },
         {
           "date": "2026-02-13",
           "open": 37.23681282,
@@ -6109,6 +6098,17 @@
           "amount": 4797494471.81,
           "turnover_pct": 0.8829,
           "pct_change": -1.4937
+        },
+        {
+          "date": "2026-11-16",
+          "open": 25.88,
+          "close": 25.96,
+          "high": 26.24,
+          "low": 25.58,
+          "volume": 173271637,
+          "amount": 4487709644.29,
+          "turnover_pct": 0.8411,
+          "pct_change": -1.5921
         }
       ]
     },
@@ -6118,17 +6118,17 @@
       "market": "sh",
       "valid_for_signal_axis": true,
       "reason_if_invalid": null,
-      "latest_completed_date": "2026-11-13",
+      "latest_completed_date": "2026-11-16",
       "latest": {
-        "date": "2026-11-13",
-        "open": 76.19,
-        "close": 68.15,
-        "high": 77.49,
-        "low": 68.14,
-        "volume": 122696110,
-        "amount": 8683732478.99,
-        "turnover_pct": 5.0874,
-        "pct_change": -9.9855
+        "date": "2026-11-16",
+        "open": 66.0,
+        "close": 61.34,
+        "high": 66.93,
+        "low": 61.34,
+        "volume": 91514460,
+        "amount": 5826580268.83,
+        "turnover_pct": 3.7945,
+        "pct_change": -9.9927
       },
       "bar_count": 180,
       "authoritative_source": "baostock",
@@ -6155,26 +6155,15 @@
         "ok": true,
         "reason": "ok",
         "common_dates": 180,
-        "latest_completed_date": "2026-11-13",
-        "authoritative_close": 68.15,
-        "validator_close": 68.15,
+        "latest_completed_date": "2026-11-16",
+        "authoritative_close": 61.34,
+        "validator_close": 61.34,
         "latest_close_rel_diff": 0.0,
         "recent_ratio_spread": 0.0,
         "recent_median_rel_diff": 0.0,
         "recent_max_rel_diff": 0.0
       },
       "bars": [
-        {
-          "date": "2026-02-12",
-          "open": 66.85640289,
-          "close": 65.45423826,
-          "high": 66.85640289,
-          "low": 64.15151793,
-          "volume": 38136977,
-          "amount": 2502383170.95,
-          "turnover_pct": 1.5927,
-          "pct_change": -2.0827
-        },
         {
           "date": "2026-02-13",
           "open": 64.64873943,
@@ -8143,6 +8132,17 @@
           "amount": 8683732478.99,
           "turnover_pct": 5.0874,
           "pct_change": -9.9855
+        },
+        {
+          "date": "2026-11-16",
+          "open": 66.0,
+          "close": 61.34,
+          "high": 66.93,
+          "low": 61.34,
+          "volume": 91514460,
+          "amount": 5826580268.83,
+          "turnover_pct": 3.7945,
+          "pct_change": -9.9927
         }
       ]
     },
@@ -8152,17 +8152,17 @@
       "market": "sh",
       "valid_for_signal_axis": true,
       "reason_if_invalid": null,
-      "latest_completed_date": "2026-11-13",
+      "latest_completed_date": "2026-11-16",
       "latest": {
-        "date": "2026-11-13",
-        "open": 148.84,
-        "close": 146.3,
-        "high": 150.38,
-        "low": 145.87,
-        "volume": 27674472,
-        "amount": 4084195938.44,
-        "turnover_pct": 1.1189,
-        "pct_change": -2.6872
+        "date": "2026-11-16",
+        "open": 144.5,
+        "close": 144.41,
+        "high": 146.72,
+        "low": 142.43,
+        "volume": 27303209,
+        "amount": 3940840109.61,
+        "turnover_pct": 1.1039,
+        "pct_change": -1.2919
       },
       "bar_count": 180,
       "authoritative_source": "baostock",
@@ -8189,26 +8189,15 @@
         "ok": true,
         "reason": "ok",
         "common_dates": 180,
-        "latest_completed_date": "2026-11-13",
-        "authoritative_close": 146.3,
-        "validator_close": 146.3,
+        "latest_completed_date": "2026-11-16",
+        "authoritative_close": 144.41,
+        "validator_close": 144.41,
         "latest_close_rel_diff": 0.0,
         "recent_ratio_spread": 0.0,
         "recent_median_rel_diff": 0.0,
         "recent_max_rel_diff": 0.0
       },
       "bars": [
-        {
-          "date": "2026-02-12",
-          "open": 100.81008,
-          "close": 102.919488,
-          "high": 104.5677696,
-          "low": 100.4764992,
-          "volume": 52640388,
-          "amount": 5552394242.18,
-          "turnover_pct": 2.1284,
-          "pct_change": 2.7022
-        },
         {
           "date": "2026-02-13",
           "open": 102.9096768,
@@ -10177,6 +10166,17 @@
           "amount": 4084195938.44,
           "turnover_pct": 1.1189,
           "pct_change": -2.6872
+        },
+        {
+          "date": "2026-11-16",
+          "open": 144.5,
+          "close": 144.41,
+          "high": 146.72,
+          "low": 142.43,
+          "volume": 27303209,
+          "amount": 3940840109.61,
+          "turnover_pct": 1.1039,
+          "pct_change": -1.2919
         }
       ]
     },
@@ -10186,17 +10186,17 @@
       "market": "sh",
       "valid_for_signal_axis": true,
       "reason_if_invalid": null,
-      "latest_completed_date": "2026-11-13",
+      "latest_completed_date": "2026-11-16",
       "latest": {
-        "date": "2026-11-13",
-        "open": 43.55,
-        "close": 40.1,
-        "high": 43.74,
-        "low": 39.81,
-        "volume": 209070646,
-        "amount": 8572669598.79,
-        "turnover_pct": 1.0536,
-        "pct_change": -7.4971
+        "date": "2026-11-16",
+        "open": 39.02,
+        "close": 36.22,
+        "high": 39.07,
+        "low": 36.09,
+        "volume": 204391583,
+        "amount": 7572617055.53,
+        "turnover_pct": 1.03,
+        "pct_change": -9.6758
       },
       "bar_count": 180,
       "authoritative_source": "baostock",
@@ -10223,26 +10223,15 @@
         "ok": true,
         "reason": "ok",
         "common_dates": 180,
-        "latest_completed_date": "2026-11-13",
-        "authoritative_close": 40.1,
-        "validator_close": 40.1,
+        "latest_completed_date": "2026-11-16",
+        "authoritative_close": 36.22,
+        "validator_close": 36.22,
         "latest_close_rel_diff": 0.0,
         "recent_ratio_spread": 0.0,
         "recent_median_rel_diff": 0.0,
         "recent_max_rel_diff": 0.0
       },
       "bars": [
-        {
-          "date": "2026-02-12",
-          "open": 54.7154676,
-          "close": 54.69569688,
-          "high": 55.31847456,
-          "low": 53.89498272,
-          "volume": 83427628,
-          "amount": 4602131756.71,
-          "turnover_pct": 0.4201,
-          "pct_change": 0.2355
-        },
         {
           "date": "2026-02-13",
           "open": 53.8257852,
@@ -12211,6 +12200,17 @@
           "amount": 8572669598.79,
           "turnover_pct": 1.0536,
           "pct_change": -7.4971
+        },
+        {
+          "date": "2026-11-16",
+          "open": 39.02,
+          "close": 36.22,
+          "high": 39.07,
+          "low": 36.09,
+          "volume": 204391583,
+          "amount": 7572617055.53,
+          "turnover_pct": 1.03,
+          "pct_change": -9.6758
         }
       ]
     }
